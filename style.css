@@ -1,0 +1,29 @@
+body{
+    background: #a3a397;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header{
+    color: #fff;
+    text-align: center;
+}
+section{
+    width: 500px;
+    background: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.363);
+    margin: auto;
+}
+
+footer{
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+}
+
+#selTab{
+    display: grid;
+    grid-template-columns: auto auto;
+
+}
